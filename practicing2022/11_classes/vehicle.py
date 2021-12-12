@@ -1,3 +1,5 @@
+import math
+
 class Car:
     __number = '54라 9538'
     seats = []

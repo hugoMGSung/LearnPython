@@ -30,7 +30,10 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+# Virtual Directories
 venv/
+venv_django/
+# Temporal Directories
 deeplearning/
 
 # Visual Studio 2015/2017 cache/options directory
